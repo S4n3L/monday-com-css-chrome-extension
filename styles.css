@@ -1,0 +1,7 @@
+.first-level-control-component.is-expanded {
+  width: 350px !important;
+}
+
+.first-level .first-level-content-wrapper.first-level-control-pinned {
+  margin-left: 350px !important;
+}
